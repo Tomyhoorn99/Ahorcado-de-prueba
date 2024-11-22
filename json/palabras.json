@@ -1,0 +1,6 @@
+{
+    "ahorcado": {
+        "ES": ["python", "programacion", "desarrollo", "computadora", "teclado", "pantalla", "juego", "ahorcado"],
+        "EN": ["python", "programming", "development", "computer", "keyboard", "screen", "game", "hangman"]
+    }
+}
